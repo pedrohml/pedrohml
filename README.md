@@ -1,6 +1,6 @@
 ### Hello world
 
-In this place I am a software engineer spending time with curiosities and some serious stuff.
+I am a software Engineer with 10+ years in a wide range of industries
 
 These are some useful links to know me better:
 - [Blog](https://pedrohml.github.io)
